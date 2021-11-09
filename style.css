@@ -1,0 +1,33 @@
+table,tr,td{
+   background-color: rgb(252, 197, 214) ;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   border: 1px solid black;
+   padding: 5px;
+}
+.h{
+   border: 8px groove white;
+   padding: 9px;
+}
+.position{
+   position: absolute;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: auto;
+   margin-top: auto;
+   left: 0;
+   right: 0;
+   top: 100px;
+   bottom: 0;
+}
+
+.position{
+   position: absolute;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: auto;
+   margin-top: auto;
+   left: 160px;
+   right: 0;
+   top: 60px;
+   bottom: 0;
+}
